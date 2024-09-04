@@ -90,3 +90,9 @@ section ul li {
     color: #666;
     margin-bottom: 10px;
 }
+
+/* Education */
+.education .school {
+    font-size: 0.9em;
+    color: #666;
+}
