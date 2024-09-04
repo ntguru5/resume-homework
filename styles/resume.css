@@ -97,6 +97,7 @@ section ul {
     color: #666;
 }
 
+/* Skills */
 .skills-list {
     display: flex;
     flex-wrap: wrap;
