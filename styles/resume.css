@@ -77,3 +77,16 @@ section ul li {
     margin-bottom: 10px;
     list-style-type: disc;
 }
+
+/* Experience */
+.job h3 {
+    font-size: 1.2em;
+    color: #007BFF;
+    margin-bottom: 5px;
+}
+
+.job .company {
+    font-size: 0.9em;
+    color: #666;
+    margin-bottom: 10px;
+}
