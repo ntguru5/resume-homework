@@ -73,7 +73,7 @@ section ul {
     list-style-type: none;
 }
 
-section ul li {
+.experience ul li {
     margin-bottom: 10px;
     list-style-type: disc;
 }
@@ -95,4 +95,18 @@ section ul li {
 .education .school {
     font-size: 0.9em;
     color: #666;
+}
+
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skills-list li {
+    background: #007BFF;
+    color: #fff;
+    padding: 8px 12px;
+    border-radius: 20px;
+    margin: 5px;
+    font-size: 0.9em;
 }
